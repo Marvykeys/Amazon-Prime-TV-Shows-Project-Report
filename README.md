@@ -26,7 +26,7 @@ Delete the other columns not needed.
 Convert the "IMDb Rating" from "General" to "Number" format. 
 <img width="802" alt="Amazon 9" src="https://user-images.githubusercontent.com/130637591/235526613-d0bd25d5-a747-437b-9f59-939055ec5432.png">
  ##
-My first cleaning process was to filter the data for blank rows and remove them. I used the shortcut Alt + A + T to add a filter, searched for blanks and then clicked OK.
+My first cleaning process was to filter the data for blank rows and remove them. I used the shortcut Alt + A + T to add a filter, searched for blanks and then clicked OK.                                                                                                                                                                           
 <img width="802" alt="Amazon 10" src="https://user-images.githubusercontent.com/130637591/235801219-7fec0db1-2c4e-4c8c-b7b1-744b835197eb.png">
  ##
 Now, below are the empty rows. I selected all empty rows and deleted them.
