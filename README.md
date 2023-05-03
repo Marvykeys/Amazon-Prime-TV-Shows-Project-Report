@@ -50,12 +50,59 @@ d) Which languages are most popular among Amazon Prime users? Analyzing the Lang
    <img width="802" alt="Amazon 19" src="https://user-images.githubusercontent.com/130637591/236050814-7f57e35b-fdc8-48e7-9c75-017d01593922.png">
    <img width="802" alt="Amazon 27" src="https://user-images.githubusercontent.com/130637591/236052863-8ea76a3c-1324-4851-9c78-0bb2360ca32d.png">
 
-   From the analysis completed, there are 201 TV Shows with the genre "Drama" and this is highest compared to the other genres.
+   From the analysis completed, there are 201 TV Shows with the genre "Drama" and this is the highest compared to the other genres.
    ![image](https://user-images.githubusercontent.com/130637591/236053014-097564a7-d4d5-4ca4-81fb-0d6fdd86da3d.png)                                                          
  ##
-2. With an average number of subscribers of 6635 subscribers, the Web Development courses are in high demand compared to the others, this entails that most of the subscribers prefer Web Development courses to others.                                            
+2. I used a Pivot Table to find the Number of Shows viewed by Age group.                                                                                                   <img width="802" alt="Amazon 28" src="https://user-images.githubusercontent.com/130637591/236069398-b278430c-4c58-43ec-9cd8-09d6b649b75f.png">
 
-     
+150 Shows, which is about 38% of the total Prime Videos TV Shows are viewed by the the 16+ Age group, 79 Shows, which is about 20% of the total Prime Videos TV Shows are viewed by the the 18+ Age group, 69 Shows, which is about 18% of the total Prime Videos TV Shows are viewed by the the 13+ Age group, 67 Shows, which is about 17% of the total Prime Videos TV Shows are viewed by the the All Age groups and finally, 28 Shows, which is about 7% of the total Prime Videos TV Shows are viewed by the the 7+ Age group.                                                                                                                                                                    ![image](https://user-images.githubusercontent.com/130637591/236071617-ae6ba3ea-3fff-4892-a573-540d94cbb249.png) ![image](https://user-images.githubusercontent.com/130637591/236071696-ee8d51b7-75e2-4c71-affc-73d8a2387043.png)
+
+ ##
+3. I used a the VLOOKUP to lookup the "Name of Show" column and the "IMDB rating", then I Filtered and sorted the data to find the Top Rated Shows.                          <img width="802" alt="Amazon 26" src="https://user-images.githubusercontent.com/130637591/236072750-3aa12621-e295-4bec-857a-e17c31e4f0a5.png">
+
+"The Test: A New Era For Australia's Team" has got a rating of 9.0 making it the Top Rated Show on the Prime TV Shows dataset compared to the others.                      ![image](https://user-images.githubusercontent.com/130637591/236073401-4583f25f-6898-4ff6-8b2e-ca331496a5f2.png)
+
+ ##
+4. I used a Pivot Table to find the percentage of languages on the Amazon Prime Videos Shows so I can find the most popular language.                                        <img width="802" alt="Amazon 29" src="https://user-images.githubusercontent.com/130637591/236074814-0e6674f2-7fb7-4eeb-b00c-ad7083ff0ae8.png">
+
+As expected, English Language is the most popular language on Amazon Prime TV Shows with 79.9% of the shows being in English Language.                                     ![image](https://user-images.githubusercontent.com/130637591/236075308-6ffeb351-7c2e-46ec-89c5-1da78fe86ade.png)
+
+ ## THE FINAL DASHBOARD :art:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
