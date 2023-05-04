@@ -82,7 +82,7 @@ As expected, English Language is the most popular language on Amazon Prime TV Sh
 ![image](https://user-images.githubusercontent.com/130637591/236075308-6ffeb351-7c2e-46ec-89c5-1da78fe86ade.png)
 
  ## THE FINAL DASHBOARD :art:
-
+https://github.com/Marvykeys/Amazon-Prime-TV-Shows-Project-Report/blob/main/AMAZON%20PRIME%20VIDEOS%20DASHBOARD.pdf
 
 
 
