@@ -62,13 +62,12 @@ d) Which languages are most popular among Amazon Prime users? Analyzing the Lang
  ##
 2. I used a Pivot Table to find the Number of Shows viewed by Age group.                                                                                                   
 <img width="802" alt="Amazon 28" src="https://user-images.githubusercontent.com/130637591/236069398-b278430c-4c58-43ec-9cd8-09d6b649b75f.png">
-
 150 Shows, which is about 38% of the total Prime Videos TV Shows are viewed by the the 16+ Age group, 79 Shows, which is about 20% of the total Prime Videos TV Shows are viewed by the the 18+ Age group, 69 Shows, which is about 18% of the total Prime Videos TV Shows are viewed by the the 13+ Age group, 67 Shows, which is about 17% of the total Prime Videos TV Shows are viewed by the the All Age groups and finally, 28 Shows, which is about 7% of the total Prime Videos TV Shows are viewed by the the 7+ Age group.                                                                                                                                                                   
 
 ![image](https://user-images.githubusercontent.com/130637591/236071617-ae6ba3ea-3fff-4892-a573-540d94cbb249.png) ![image](https://user-images.githubusercontent.com/130637591/236071696-ee8d51b7-75e2-4c71-affc-73d8a2387043.png)
 
  ##
-3. I used a the VLOOKUP to lookup the "Name of Show" column and the "IMDB rating", then I Filtered and sorted the data to find the Top Rated Shows.                          
+3. I used the VLOOKUP function to lookup the "Name of Show" column and the "IMDb rating", then I Filtered and sorted the data to find the Top Rated Shows.                          
 <img width="802" alt="Amazon 26" src="https://user-images.githubusercontent.com/130637591/236072750-3aa12621-e295-4bec-857a-e17c31e4f0a5.png">
 
 "The Test: A New Era For Australia's Team" has got a rating of 9.0 making it the Top Rated Show on the Prime TV Shows dataset compared to the others.                      
