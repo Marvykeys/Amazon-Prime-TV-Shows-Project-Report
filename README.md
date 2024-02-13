@@ -4,7 +4,8 @@ This report is focused on studying the trends present in the Amazon Prime TV Sho
 ## Data Design :bar_chart:
 The raw data provided was downloaded in CSV file format from kaggle.com and it came with some of its contents being improperly formatted hence, a proper data cleaning had to be done by removing duplicates, renaming cells, creating filters and also deleting empty rows.
 ## Import and Transform Data :scroll:
-After downloading the data which was in CSV file format, I imported the data into Microsoft Excel being the tool I’ll be using for analysis.                             <img width="802" alt="Amazon 1" src="https://user-images.githubusercontent.com/130637591/235513178-b8f99b70-fdd6-4de1-83d2-67ffcbbc4021.png">
+After downloading the data which was in CSV file format, I imported the data into Microsoft Excel being the tool I’ll be using for analysis.                             
+<img width="802" alt="Amazon 1" src="https://user-images.githubusercontent.com/130637591/235513178-b8f99b70-fdd6-4de1-83d2-67ffcbbc4021.png">
 ##
 I clicked on “Load” to load the data.  
 <img width="802" alt="Amazon 2" src="https://user-images.githubusercontent.com/130637591/235514172-5af3df5b-509f-4a1a-8c8e-8c9fed52fcda.png">
@@ -81,50 +82,4 @@ As expected, English Language is the most popular language on Amazon Prime TV Sh
 ![image](https://user-images.githubusercontent.com/130637591/236075308-6ffeb351-7c2e-46ec-89c5-1da78fe86ade.png)
 
  ## THE FINAL DASHBOARD :art:
-https://github.com/Marvykeys/Amazon-Prime-TV-Shows-Project-Report/blob/main/AMAZON%20PRIME%20VIDEOS%20DASHBOARD.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Dashboard](https://github.com/Marvykeys/Amazon-Prime-TV-Shows-Project-Report/blob/main/AMAZON%20PRIME%20VIDEOS%20DASHBOARD.pdf)
